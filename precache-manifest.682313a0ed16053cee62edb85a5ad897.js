@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38126f72b44cf75b2a19b4f99c217158",
+    "revision": "11eb4e76401cfbac47dd4011eec998c1",
     "url": "/reactpages/index.html"
   },
   {
-    "revision": "0bbe5e51225a024d86ee",
-    "url": "/reactpages/static/css/main.d496d3e6.chunk.css"
+    "revision": "6dbe62a2d0bc206330dd",
+    "url": "/reactpages/static/css/main.69e8b205.chunk.css"
   },
   {
-    "revision": "1b13f951144d7ba50aed",
-    "url": "/reactpages/static/js/2.611208ba.chunk.js"
+    "revision": "960837d06536b8c058fa",
+    "url": "/reactpages/static/js/2.41f793b2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/reactpages/static/js/2.611208ba.chunk.js.LICENSE.txt"
+    "url": "/reactpages/static/js/2.41f793b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0bbe5e51225a024d86ee",
-    "url": "/reactpages/static/js/main.6a5b4e1c.chunk.js"
+    "revision": "6dbe62a2d0bc206330dd",
+    "url": "/reactpages/static/js/main.bb5c1de4.chunk.js"
   },
   {
     "revision": "44911be33e65eb57aa89",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c275f6356ec25816d3e802f589df0120",
     "url": "/reactpages/static/media/Okami-Outline.c275f635.otf"
+  },
+  {
+    "revision": "4e11f03de69e569dfda4adfa7a950dd3",
+    "url": "/reactpages/static/media/absbg.4e11f03d.jpg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
