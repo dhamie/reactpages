@@ -1,28 +1,34 @@
 {
   "files": {
-    "main.css": "/reactpages/static/css/main.69e8b205.chunk.css",
-    "main.js": "/reactpages/static/js/main.bb5c1de4.chunk.js",
-    "main.js.map": "/reactpages/static/js/main.bb5c1de4.chunk.js.map",
+    "main.css": "/reactpages/static/css/main.d955a2d7.chunk.css",
+    "main.js": "/reactpages/static/js/main.5837f1e4.chunk.js",
+    "main.js.map": "/reactpages/static/js/main.5837f1e4.chunk.js.map",
     "runtime-main.js": "/reactpages/static/js/runtime-main.2d2e84e8.js",
     "runtime-main.js.map": "/reactpages/static/js/runtime-main.2d2e84e8.js.map",
-    "static/js/2.41f793b2.chunk.js": "/reactpages/static/js/2.41f793b2.chunk.js",
-    "static/js/2.41f793b2.chunk.js.map": "/reactpages/static/js/2.41f793b2.chunk.js.map",
+    "static/js/2.9ab2e12b.chunk.js": "/reactpages/static/js/2.9ab2e12b.chunk.js",
+    "static/js/2.9ab2e12b.chunk.js.map": "/reactpages/static/js/2.9ab2e12b.chunk.js.map",
     "index.html": "/reactpages/index.html",
-    "precache-manifest.682313a0ed16053cee62edb85a5ad897.js": "/reactpages/precache-manifest.682313a0ed16053cee62edb85a5ad897.js",
+    "precache-manifest.04a88567da8e78f77b56d2c05662e4bd.js": "/reactpages/precache-manifest.04a88567da8e78f77b56d2c05662e4bd.js",
     "service-worker.js": "/reactpages/service-worker.js",
-    "static/css/main.69e8b205.chunk.css.map": "/reactpages/static/css/main.69e8b205.chunk.css.map",
-    "static/js/2.41f793b2.chunk.js.LICENSE.txt": "/reactpages/static/js/2.41f793b2.chunk.js.LICENSE.txt",
+    "static/css/main.d955a2d7.chunk.css.map": "/reactpages/static/css/main.d955a2d7.chunk.css.map",
+    "static/js/2.9ab2e12b.chunk.js.LICENSE.txt": "/reactpages/static/js/2.9ab2e12b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/reactpages/static/media/Okami-Outline.c275f635.otf",
     "static/media/absbg.jpg": "/reactpages/static/media/absbg.4e11f03d.jpg",
-    "static/media/logo.svg": "/reactpages/static/media/logo.5d5d9eef.svg",
+    "static/media/bunb.png": "/reactpages/static/media/bunb.a4a29662.png",
+    "static/media/bunt.png": "/reactpages/static/media/bunt.2ff9b845.png",
+    "static/media/cheese1.png": "/reactpages/static/media/cheese1.b445f37d.png",
+    "static/media/chicken.png": "/reactpages/static/media/chicken.9f6c65b6.png",
+    "static/media/egg.png": "/reactpages/static/media/egg.160cfb46.png",
+    "static/media/meat.png": "/reactpages/static/media/meat.dfa7911e.png",
     "static/media/samuria.jpg": "/reactpages/static/media/samuria.92e56650.jpg",
+    "static/media/tomato.png": "/reactpages/static/media/tomato.b86d1195.png",
     "static/media/yang_half.png": "/reactpages/static/media/yang_half.d481eb4d.png",
     "static/media/yin_half.png": "/reactpages/static/media/yin_half.6e75d46d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2d2e84e8.js",
-    "static/js/2.41f793b2.chunk.js",
-    "static/css/main.69e8b205.chunk.css",
-    "static/js/main.bb5c1de4.chunk.js"
+    "static/js/2.9ab2e12b.chunk.js",
+    "static/css/main.d955a2d7.chunk.css",
+    "static/js/main.5837f1e4.chunk.js"
   ]
 }
